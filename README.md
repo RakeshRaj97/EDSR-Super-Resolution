@@ -23,3 +23,7 @@ Run the script in `src` folder. Uncomment the appropriate line in `demo.sh` to t
 `sh demo.sh` 
 The output images can be found under `experiment/test/results-Demo` folder.
 
+# Output of the trained model
+
+![image](https://user-images.githubusercontent.com/47710229/84050300-e1936580-a9f0-11ea-8a14-2e6236964ee7.png)
+
