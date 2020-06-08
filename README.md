@@ -17,7 +17,7 @@ This model was trained on NVIDIA P100 with ~4500 annotated satellite Low Resolut
 * matplotlib
 
 # Quickstart (Demo)
-You can test the pretrained model **EDSR_baseline_x2** by placing the images in `test` folder. The supported formats are **png** and **jpeg** files. The pretrained model can be downloaded using this [link]()
+You can test the pretrained model **EDSR_baseline_x2** by placing the images in `test` folder. The supported formats are **png** and **jpeg** files. The pretrained model can be downloaded using this [link](https://drive.google.com/drive/u/0/folders/1dbqh0lo5YAKhuPBXOlcUGsew5pL0T33O)
 
 Run the script in `src` folder. Uncomment the appropriate line in `demo.sh` to test your image.
 `sh demo.sh` 
