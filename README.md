@@ -1,4 +1,5 @@
 # EDSR-Super-Resolution
+
 This repository is an implementation of EDSR model using PyTorch 
 Check the official [code](https://github.com/thstkdgus35/EDSR-PyTorch) and [paper](http://openaccess.thecvf.com/content_cvpr_2017_workshops/w12/papers/Lim_Enhanced_Deep_Residual_CVPR_2017_paper.pdf)
 (The video input/output super-resolution will be added soon to the Master branch) 
